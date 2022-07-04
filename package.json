@@ -1,0 +1,16 @@
+{
+  "name": "alexmigf.dev",
+  "version": "1.0.0",
+  "description": "Personal site",
+  "main": "index.js",
+  "scripts": {
+    "start": "sergey",
+    "dev": "sergey --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "sergey": "^0.0.13"
+  }
+}
