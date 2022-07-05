@@ -11,6 +11,7 @@
   "author": "",
   "license": "GPL-3.0",
   "dependencies": {
+    "chota": "^0.8.0",
     "sergey": "^0.0.13"
   }
 }
