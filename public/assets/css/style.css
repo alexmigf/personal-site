@@ -1,5 +1,3 @@
-@import url( '../../node_modules/chota/dist/chota.css' );
-
 :root {
 	--wpo-link: #741784;
 }
@@ -25,5 +23,5 @@ main {
 }
 
 footer {
-	margin-top: 5%;
+	margin-top: 10%;
 }
