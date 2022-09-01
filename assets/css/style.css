@@ -18,8 +18,11 @@ main {
 	margin-top: 5%;
 }
 
-.sponsor {
-	font-weight: bold;
+.sponsor img {
+	width: 120px;
+	height: auto;
+	display: block;
+	margin: 5px 0;
 }
 
 footer {
